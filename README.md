@@ -1,6 +1,3 @@
-Here's a sample README file for your water billing system project:
-
----
 
 # Water Billing System
 
