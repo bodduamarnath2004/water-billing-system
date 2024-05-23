@@ -18,7 +18,7 @@ The Water Billing System is a web-based application designed to manage and updat
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/water-billing-system.git
+    git clone https://github.com/bodduamarnath2004/water-billing-system.git
     cd water-billing-system
     ```
 
