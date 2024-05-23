@@ -65,10 +65,6 @@ We welcome contributions to improve the Water Billing System. To contribute, fol
 4. **Push to the branch**: `git push origin feature/your-feature-name`
 5. **Submit a pull request**.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 
 Feel free to modify the sections to fit your project's specifics and any additional instructions you might have.
